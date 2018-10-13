@@ -23,6 +23,6 @@ Funbits is a way to montenize your streams allowing your viewers to communicate 
 7. Open OBS Studio and navigate to Tools > VirtualCam and check AutoStart and start the VCAM if it's not started already.
 8. Execute the start batch file and you'll now be streaming live to RobotStreamer!
 
-If you have any questions, comments, or concerns please leave them in #game-stream-setup on our Discord at: https://discord.gg/n6B7ymy
+If you have any questions, comments, or concerns please leave them in #stream-support on our Discord at: https://discord.gg/n6B7ymy
 
 If you have direct issues with the installer only, contact matical#9282 for assistance.
